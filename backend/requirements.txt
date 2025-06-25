@@ -1,6 +1,6 @@
 flask==2.3.3 
 flask-cors==4.0.0 
-sqlalchemy==2.0.23 
+sqlalchemy==1.4.53 
 pymysql==1.1.0 
 mysql-connector-python==8.2.0 
 requests==2.31.0 
