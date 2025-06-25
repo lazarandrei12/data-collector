@@ -80,7 +80,32 @@ def get_connections():
             return jsonify({'connections': connections, 'count': len(connections)}) 
     except Exception as e: 
         return jsonify({'status': 'error', 'message': str(e)}), 500 
- 
+    
+@app.route('/api/add-sample-data')
+def add_sample_data():
+    try:
+        engine = get_mysql_engine()
+        with engine.connect() as conn:
+           
+            sample_data = [
+                ('UNU', 'MySQL', 'active'),
+                ('DOI', 'MSSQL', 'inactive'), 
+                ('TREI', 'MYSQL', 'active'),
+                ('PATRU', 'MSSQL', 'active')
+            ]
+            
+            for name, type_val, status in sample_data:
+                conn.execute(text("""
+                    INSERT INTO connections (name, type, status) 
+                    VALUES (:name, :type, :status)
+                """), {'name': name, 'type': type_val, 'status': status})
+            
+           
+            return jsonify({'status': 'success', 'message': 'Sample data added!'})
+    except Exception as e:
+        return jsonify({'status': 'error', 'message': str(e)}), 500
+
 if __name__ == '__main__': 
     print('?? Data Collector Backend cu MySQL pornit pe http://localhost:5000') 
     app.run(debug=True, port=5000, host='0.0.0.0') 
+

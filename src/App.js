@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import Navigation from './components/Navigation';
+import DataTable from './components/DataTable';
 
 function App() {
   return (
     <div className="App">
       <Navigation />
-      <main style={{ padding: '20px' }}>
-        <h2> Data Collector</h2>
-        <p>Dashboard content will go here...</p>
+      <main>
+        <DataTable />
       </main>
     </div>
   );
