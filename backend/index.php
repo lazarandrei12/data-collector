@@ -1,5 +1,6 @@
 <?php
 header('Content-Type: application/json');
+header('Access-Control-Allow-Origin: *');
 
 echo json_encode([
     'message' => 'Data Collector API',
@@ -7,9 +8,7 @@ echo json_encode([
     'status' => 'running',
     'endpoints' => [
         'sources' => '/api/sources.php',
-        'file_imports' => '/api/file-imports.php',
-        'upload' => '/upload/upload.php',
-        'delete_import' => '/api/delete-import.php'  // NOU
+        'test' => '/test_connection.php'
     ]
 ]);
 ?>

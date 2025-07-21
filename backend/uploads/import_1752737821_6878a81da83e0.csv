@@ -1,0 +1,22 @@
+employee_id,first_name,last_name,email,department,salary,hire_date,manager_id,status
+1001,Alexandru,Popescu,alex.popescu@company.ro,IT,8500,2022-03-15,2001,Active
+1002,Maria,Ionescu,maria.ionescu@company.ro,HR,6200,2021-07-10,2002,Active
+1003,Andrei,Georgescu,andrei.georgescu@company.ro,Finance,7200,2020-11-22,2003,Active
+1004,Elena,Vasilescu,elena.vasilescu@company.ro,Marketing,5800,2023-01-08,2004,Active
+1005,Mihai,Constantinescu,mihai.constantinescu@company.ro,IT,9200,2019-09-14,2001,Active
+1006,Ana,Stoica,ana.stoica@company.ro,Sales,6800,2022-12-03,2005,Active
+1007,Radu,Munteanu,radu.munteanu@company.ro,IT,7500,2021-05-20,2001,Active
+1008,Cristina,Dumitrescu,cristina.dumitrescu@company.ro,HR,5500,2023-08-12,2002,Active
+1009,Bogdan,Stanescu,bogdan.stanescu@company.ro,Finance,8100,2020-04-18,2003,Active
+1010,Ioana,Radulescu,ioana.radulescu@company.ro,Marketing,6100,2022-10-25,2004,Active
+1011,Vlad,Marinescu,vlad.marinescu@company.ro,IT,11500,2018-12-01,2001,Active
+1012,Simona,Nicolescu,simona.nicolescu@company.ro,Sales,7200,2021-03-30,2005,Active
+1013,Gabriel,Preda,gabriel.preda@company.ro,IT,8900,2020-08-15,2001,On Leave
+1014,Raluca,Moldovan,raluca.moldovan@company.ro,HR,6000,2023-02-14,2002,Active
+1015,Daniel,Ciobanu,daniel.ciobanu@company.ro,Finance,9800,2019-06-07,2003,Active
+1016,Laura,Mihai,laura.mihai@company.ro,Marketing,5200,2023-11-20,2004,Probation
+1017,Stefan,Barbu,stefan.barbu@company.ro,Sales,6500,2022-07-18,2005,Active
+1018,Diana,Lazar,diana.lazar@company.ro,IT,7800,2021-12-09,2001,Active
+1019,Cosmin,Tanase,cosmin.tanase@company.ro,Finance,7600,2020-01-25,2003,Active
+1020,Andreea,Popa,andreea.popa@company.ro,HR,5800,2023-05-03,2002,Active
+

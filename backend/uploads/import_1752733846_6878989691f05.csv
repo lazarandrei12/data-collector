@@ -1,0 +1,16 @@
+id,name,email,phone,city,age,registration_date
+1,Ion Popescu,ion.popescu@email.com,0721123456,Bucuresti,35,2024-01-15
+2,Maria Ionescu,maria.ionescu@gmail.com,0732987654,Cluj-Napoca,28,2024-02-20
+3,Andrei Stanciu,andrei.stanciu@yahoo.com,0743456789,Timisoara,42,2024-01-08
+4,Ana Gheorghe,ana.gheorghe@outlook.com,0754321098,Iasi,31,2024-03-10
+5,Mihai Radu,mihai.radu@email.com,0765678901,Constanta,26,2024-02-28
+6,Elena Dumitrescu,elena.dumitrescu@gmail.com,0776543210,Brasov,39,2024-01-22
+7,Cristian Popa,cristian.popa@yahoo.com,0787890123,Craiova,33,2024-03-05
+8,Laura Marin,laura.marin@email.com,0798012345,Galati,29,2024-02-14
+9,Alexandru Vasile,alex.vasile@gmail.com,0701234567,Ploiesti,37,2024-01-30
+10,Diana Stoica,diana.stoica@outlook.com,0712345678,Pitesti,24,2024-03-18
+11,Gabriel Ionescu,gabriel.ionescu@email.com,0723456789,Sibiu,40,2024-01-12
+12,Raluca Munteanu,raluca.munteanu@gmail.com,0734567890,Oradea,27,2024-02-05
+13,Bogdan Cristea,bogdan.cristea@yahoo.com,0745678901,Bacau,34,2024-03-22
+14,Ioana Radulescu,ioana.radulescu@outlook.com,0756789012,Arad,30,2024-01-28
+15,Vlad Manea,vlad.manea@email.com,0767890123,Targu Mures,36,2024-02-11

@@ -1,0 +1,21 @@
+sale_id,customer_name,product_name,category,quantity,unit_price,total_amount,sale_date,salesperson,region,payment_method
+S001,SC TechSoft SRL,Laptop Dell Inspiron,Electronics,5,2800.00,14000.00,2024-01-15,Alexandru Popescu,Bucuresti,Card
+S002,Compania ABC SA,Microsoft Office 365,Software,10,450.00,4500.00,2024-01-16,Maria Ionescu,Cluj,Transfer
+S003,SRL Innovate,iPhone 15 Pro,Electronics,3,5200.00,15600.00,2024-01-17,Andrei Georgescu,Timisoara,Card
+S004,Digital Solutions Ltd,Adobe Creative Suite,Software,2,2100.00,4200.00,2024-01-18,Elena Vasilescu,Bucuresti,Cash
+S005,StartUp Romania,MacBook Air M2,Electronics,4,6800.00,27200.00,2024-01-19,Mihai Constantinescu,Brasov,Card
+S006,Business Pro SRL,Slack Premium,Software,15,320.00,4800.00,2024-01-20,Ana Stoica,Iasi,Transfer
+S007,Tech Evolution SA,Samsung Galaxy S24,Electronics,8,4200.00,33600.00,2024-01-21,Radu Munteanu,Constanta,Card
+S008,Modern Office SRL,Zoom Professional,Software,5,580.00,2900.00,2024-01-22,Cristina Dumitrescu,Bucuresti,Card
+S009,Innovation Hub SA,iPad Pro 12.9,Electronics,6,5800.00,34800.00,2024-01-23,Bogdan Stanescu,Cluj,Transfer
+S010,Digital Marketing Ltd,Canva Pro,Software,20,145.00,2900.00,2024-01-24,Ioana Radulescu,Timisoara,Card
+S011,Future Tech SRL,Surface Laptop Studio,Electronics,2,9500.00,19000.00,2024-01-25,Vlad Marinescu,Bucuresti,Card
+S012,Creative Agency SA,Final Cut Pro,Software,3,1200.00,3600.00,2024-01-26,Simona Nicolescu,Brasov,Transfer
+S013,Smart Business SRL,Apple Watch Ultra,Electronics,10,3200.00,32000.00,2024-01-27,Gabriel Preda,Iasi,Card
+S014,Web Solutions Ltd,Shopify Plus,Software,1,2800.00,2800.00,2024-01-28,Raluca Moldovan,Constanta,Transfer
+S015,Tech Consulting SA,AirPods Pro,Electronics,15,1100.00,16500.00,2024-01-29,Daniel Ciobanu,Bucuresti,Card
+S016,Digital Agency SRL,Mailchimp Premium,Software,8,420.00,3360.00,2024-01-30,Laura Mihai,Cluj,Card
+S017,StartUp Accelerator,Google Pixel 8 Pro,Electronics,4,4800.00,19200.00,2024-01-31,Stefan Barbu,Timisoara,Transfer
+S018,Business Intelligence Ltd,Tableau Desktop,Software,2,2400.00,4800.00,2024-02-01,Diana Lazar,Bucuresti,Card
+S019,Innovation Labs SA,Nintendo Switch OLED,Electronics,12,1450.00,17400.00,2024-02-02,Cosmin Tanase,Brasov,Card
+S020,E-commerce Solutions SRL,WooCommerce Extensions,Software,25,180.00,4500.00,2024-02-03,Andreea Popa,Iasi,Transfer
