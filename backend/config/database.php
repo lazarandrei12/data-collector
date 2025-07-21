@@ -1,0 +1,1 @@
+<?php $serverName = "localhost"; $database = "data_collector"; $username = "sa"; $password = "your_password"; try { $pdo = new PDO("sqlsrv:server=$serverName;Database=$database", $username, $password); } catch(PDOException $e) { die("Error: " . $e-; } ?> 
